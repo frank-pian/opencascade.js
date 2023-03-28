@@ -5,3 +5,7 @@ node_modules
 build-output.log
 pull-stages-output.log
 /occt-src/
+occShell.js
+occShell.d.ts
+.vscode/c_cpp_properties.json
+temp.yml
