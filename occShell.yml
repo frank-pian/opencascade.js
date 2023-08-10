@@ -159,6 +159,8 @@ mainBuild:
     - symbol: Poly_Triangulation
     - symbol: Precision
     - symbol: ProjLib
+    - symbol: Handle_ShapeFix_Shape
+    - symbol: ShapeFix_Shape
     - symbol: ShapeFix_EdgeConnect
     - symbol: ShapeFix_Face
     - symbol: ShapeFix_Root
